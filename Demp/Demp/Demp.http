@@ -1,0 +1,6 @@
+@Demp_HostAddress = http://localhost:5251
+
+GET {{Demp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
